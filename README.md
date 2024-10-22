@@ -1,3 +1,5 @@
+install node  ==> npm install
+
 How to run 
 run_script_data.bat is run all (step5)
 
